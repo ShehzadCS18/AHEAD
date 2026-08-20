@@ -1,8 +1,10 @@
 # AHEAD: Aerial Hazard Evaluation and Detection Benchmark
 
-Official implementation of **AHEAD-Net** and the **AHEAD benchmark** for aerial hazard detection under diverse environmental conditions.
-
 ## Overview
+> The source code, benchmark dataset, pretrained models, and detailed documentation will
+> be publicly released upon completion of the editorial/review process of
+> the associated manuscript.
+
 
 AHEAD is a comprehensive benchmark for aerial hazard detection designed to evaluate robust perception under real-world aviation scenarios. The benchmark introduces:
 
