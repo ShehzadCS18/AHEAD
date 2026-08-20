@@ -44,19 +44,15 @@ results/
 
 ## Dataset
 
-The AHEAD dataset contains:
+The AHEAD dataset is designed to support research on robust aerial
+hazard detection under diverse real-world environmental conditions. It
+includes carefully annotated aerial hazard samples collected from
+multiple viewpoints, a wide range of operational scenarios, and
+comprehensive metadata for performance evaluation.
 
-- 37,572 annotated images
-- 150 real-world videos
-- Bird and drone hazards
-- Four viewpoints
-  - Aerial
-  - Ground-sky
-  - Multi-view
-  - Bird's-eye view (BEV)
-- Four difficulty levels (L1–L4)
-
----
+The complete dataset, annotation protocol, and benchmark statistics
+will be released upon completion of the editorial process of the
+associated manuscript.
 
 ## Installation
 
