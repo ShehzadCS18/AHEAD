@@ -1,4 +1,4 @@
-# AHEAD: Aerial Hazard Evaluation and Detection Benchmark
+# AHEAD
 
 ## Overview
 > The source code, benchmark dataset, pretrained models, and detailed documentation will
