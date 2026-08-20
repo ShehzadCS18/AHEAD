@@ -18,19 +18,6 @@ The benchmark aims to facilitate research on robust aerial hazard detection for 
 
 ---
 
-## Repository Structure
-
-```
-configs/
-datasets/
-models/
-training/
-utils/
-figures/
-results/
-```
-
----
 
 ## Features
 
@@ -91,11 +78,6 @@ Citation will be added after publication.
 
 ---
 
-## License
-
-This project is released under the MIT License.
-
----
 
 ## Contact
 
@@ -105,10 +87,6 @@ Department of Applied Artificial Intelligence
 
 Sungkyunkwan University
 
-Email: *your-email*
+Email: *shehzadali@g.skku.edu*
 
 ---
-
-## Acknowledgements
-
-This work is based on the AHEAD benchmark and AHEAD-Net developed for robust aerial hazard detection under adverse environmental conditions.
